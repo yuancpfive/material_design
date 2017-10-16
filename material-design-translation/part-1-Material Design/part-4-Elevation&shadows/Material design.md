@@ -1,4 +1,4 @@
-原文地址：[http://https://material.io/guidelines/material-design/elevation-shadows.html](http://https://material.io/guidelines/material-design/elevation-shadows.html)
+原文地址：[https://material.io/guidelines/material-design/elevation-shadows.html](https://material.io/guidelines/material-design/elevation-shadows.html)
 
 # Elevation & shadows #
 
